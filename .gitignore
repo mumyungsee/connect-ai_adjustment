@@ -6,3 +6,6 @@ preview.html
 .DS_Store
 releases/
 .env
+
+# 대용량 게임 에셋 (548MB, 13만 파일) - git 제외, 별도 이관
+assets/
